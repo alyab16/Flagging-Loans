@@ -58,5 +58,5 @@ The ExtraTreesClassifier showed the best performance after addressing class imba
 
 ## Results
 
-- The final model (ExtraTreesClassifier) achieved high performance metrics, with an AUC of 0.98 and an Average Precision of 0.99.
+- The final model (ExtraTreesClassifier) achieved high performance metrics, with an AUC of `0.95` and an Average Precision of `0.93`.
 - The most important features for predicting loan defaults were identified and visualized.
