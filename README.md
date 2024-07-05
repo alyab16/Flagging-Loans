@@ -28,8 +28,8 @@ The project is divided into several phases:
 - numpy
 - matplotlib
 - seaborn
-- scikit-learn
-- imbalanced-learn (imblearn)
+- scikit-learn (Version `1.5.1`)
+- imbalanced-learn (imblearn) (Version `0.12.3`)
 - yellowbrick
 
 ## Main Steps
