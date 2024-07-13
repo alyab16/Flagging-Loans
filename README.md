@@ -54,7 +54,7 @@ The project evaluates several classifiers, including:
 - RandomForestClassifier
 - ExtraTreesClassifier
 
-The ExtraTreesClassifier showed the best performance after addressing class imbalance.
+The ExtraTreesClassifier showed the best performance after addressing class imbalance by synthetically generating new data.
 
 ## Results
 
